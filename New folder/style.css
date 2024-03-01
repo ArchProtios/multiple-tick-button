@@ -1,0 +1,17 @@
+body {
+    height: 300px;
+    width: 50%;
+    text-align: center;
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 2em;
+    display: flex;
+    flex-direction: column;
+    border: 5px solid black;
+    gap: 30px;
+    font-weight: 900;
+    /* background-color: rgb(230, 226, 221); */
+}
+
+#mySubmit { 
+    font-size: 1em;
+}
